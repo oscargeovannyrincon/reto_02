@@ -64,3 +64,14 @@ z=x**y
 print(f"\nOperador **\n{x}**{y}={z}")
 z=80//6
 print(f"\nOperador //\n{x}//{y}={z}")
+
+print('\nOPERADORES COMPARACION')
+x=15
+y=7
+print(f'x={x}, y={y}')
+print(f'\nOperador  IGUAL ==\nx==y=>{x==y}')
+print(f'\nOperador NO ES IGUAL !=\nx==y=>{x!=y}')
+print(f'\nOperador MAYOR QUE >\nx==y=>{x>y}')
+print(f'\nOperador de MENOR QUE <\nx==y=>{x<y}')
+print(f'\nOperador de MAYOR O IGUAL QUE >=\nx==y=>{x>=y}')
+print(f'\nOperador de MENOR O IGUAL QUE <=\nx==y=>{x<=y}')
